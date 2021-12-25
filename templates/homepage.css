@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(56, 34, 2)
+}
+h1{
+    animation: step-end;
+    color:rgb(165, 243, 93);
+    text-align:center;
+    font: Arial;
+    font-size: 35;
+}
+p{
+    animation: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+    color:aliceblue;
+    font: TimesNewRoman;
+    font-size: 23;
+}
